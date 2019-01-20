@@ -17,7 +17,7 @@ Installation
 
 License
 -------
-YOURLS
+GNU General Public License v3.0
 
 One more thing
 --------------
