@@ -9,10 +9,11 @@ This is a plugin for YOURLS that adds quick sharing to whatsapp web/api (phone o
 
 Installation
 ------------
-1. In `/user/plugins`, create a new folder named `whatsapp`.
-2. Drop `plugin.php` and `whatsapp.png` in it.
-3. Go to the Plugins administration page ( *eg* `http://sho.rt/admin/plugins.php` ) and activate the plugin.
-4. Have fun!
+1. Download the files from [here](https://github.com/WisseHesNL/Whatsapp-quickshare/archive/master.zip) and unzip it
+2. In `/user/plugins`, create a new folder named `whatsapp`.
+3. Drop `plugin.php` and `whatsapp.png` in it.
+4. Go to the Plugins administration page ( *eg* `http://sho.rt/admin/plugins.php` ) and activate the plugin.
+5. Have fun!
 
 License
 -------
